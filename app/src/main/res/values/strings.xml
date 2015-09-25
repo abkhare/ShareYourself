@@ -8,4 +8,5 @@
     <string name="title_activity_message_view">MessageView</string>
     <string name="message_send_button">GO</string>
     <string name="map_message_button">Chat</string>
+    <string name="title_activity_cab_starters">CabStarters</string>
 </resources>
