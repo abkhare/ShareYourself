@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.example.harinath.letsgo.R;
+import com.shareyourself.R;
 
 import java.util.List;
 

@@ -10,8 +10,7 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
-import com.example.harinath.letsgo.R;
+import com.shareyourself.R;
 import com.shareyourself.database.ChatRepo;
 
 import java.text.DateFormat;
